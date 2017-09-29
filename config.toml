@@ -1,5 +1,6 @@
 baseURL = "https://blog.dedigitaletopschool.nl/"
 languageCode = "nl-nl"
+DefaultContentLanguage = "nl"
 title = "De Digitale Topschool blog"
 theme = 'base16'
 
