@@ -12,8 +12,6 @@ hugo new aanbevelings/obs-de-regenboog-maastricht.md # for a recommendation
 
 Push to `master` and [Netlify](https://netlify.com/) takes it from there.
 
-Not sure if your work is ready for production yet? Push to a branch and Netlify deploys a separate website for that branch. Magical!
-
 ## Questions?
 
 Ask [Space Babies](https://www.spacebabies.nl/).
