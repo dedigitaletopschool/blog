@@ -1,4 +1,7 @@
-baseURL = "https://blog.dedigitaletopschool.nl/"
+baseURL = "https://dedigitaletopschool-blog.netlify.com"
 languageCode = "nl-nl"
 title = "De Digitale Topschool blog"
 theme = 'base16'
+
+[params]
+  description = 'Online onderwijs voor kinderen op de basisschool met talent voor leren.'

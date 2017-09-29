@@ -1,6 +1,7 @@
 +++
 date = "2016-06-07"
 tags = ["onderwijs","hoogbegaafd","gamification","lerenleren"]
+categories = ['Site-update']
 title = "Stoppen van opdrachten"
 
 +++

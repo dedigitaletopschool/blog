@@ -1,6 +1,7 @@
 +++
 date = "2016-10-20"
 tags = ["onderwijs","hoogbegaafd","basisschool","saas"]
+categories = ['Site-update']
 title = "Nieuwe abonnementen"
 +++
 

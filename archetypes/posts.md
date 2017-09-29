@@ -1,5 +1,6 @@
 +++
-tags = [ "onderwijs", "hoogbegaafd" ]
+tags = []
+categories = []
 +++
 
 ![Alttext](/img/image.jpg)
