@@ -1,6 +1,6 @@
 +++
 date = "2016-08-08"
-tags = ["verantwoording"]
+categories = ["Verantwoording"]
 title = "Schooljaar 2015-2016"
 
 +++
