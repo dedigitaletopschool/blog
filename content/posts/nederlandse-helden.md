@@ -1,8 +1,8 @@
 +++
 date = "2016-09-15"
 tags = ["onderwijs","geschiedenis","helden","nederland","basisschool"]
+categories = ['Opdrachten']
 title = "Nederlandse helden"
-
 +++
 
 Wat zijn helden? Meestal zijn dat personen die in moeilijke omstandigheden dapper gedrag hebben vertoond. Denk maar eens aan de zeehelden van vroeger of de verzetshelden uit de Tweede Wereldoorlog.
