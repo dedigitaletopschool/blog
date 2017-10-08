@@ -1,7 +1,7 @@
 +++
 categories = []
 date = "2015-06-26"
-tags = ['voorproefje','consultancy','advies']
+tags = ['voorproefje','consultancy']
 title = "Hoog abstractieniveau"
 +++
 
