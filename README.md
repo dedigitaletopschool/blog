@@ -1,5 +1,16 @@
 This blog is managed with [Hugo](https://gohugo.io/).
 
+## Installation
+
+You need the `hugo` binary.
+
+The theme is a git submodule, so you need to update it separately:
+
+``` shell
+git submodule init
+git submodule update
+```
+
 ## Local blogging
 
 ``` shell

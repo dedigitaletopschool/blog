@@ -1,7 +1,7 @@
 +++
 categories = []
 date = "2015-04-10"
-tags = ['basisschool','aanbeveling']
+tags = ['basisschool']
 title = "Tevreden scholen"
 +++
 

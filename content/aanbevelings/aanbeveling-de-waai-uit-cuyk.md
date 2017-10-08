@@ -1,7 +1,7 @@
 +++
 date = "2016-03-07"
-tags = ["aanbeveling","talent","leren","basisschool"]
-categories = ["aanbeveling"]
+tags = ["talent","leren","basisschool"]
+categories = ["Aanbeveling"]
 title = "Aanbeveling De Waai uit Cuyk"
 
 +++

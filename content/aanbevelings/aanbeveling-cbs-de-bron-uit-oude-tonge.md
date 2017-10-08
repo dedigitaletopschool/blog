@@ -1,7 +1,7 @@
 +++
 date = "2016-05-19"
-tags = ["passendonderwijs","hoogbegaafd","aanbeveling","basisschool"]
-categories = ["aanbeveling"]
+tags = ["passendonderwijs","hoogbegaafd","basisschool"]
+categories = ["Aanbeveling"]
 title = "Aanbeveling cbs de bron uit oude tonge"
 
 +++

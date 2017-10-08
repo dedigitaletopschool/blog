@@ -1,7 +1,7 @@
 +++
 date = "2016-11-08"
-tags = ["aanbeveling","basisschool","leren","hoogbegaafd"]
-categories = ["aanbeveling"]
+tags = ["basisschool","leren","hoogbegaafd"]
+categories = ["Aanbeveling"]
 title = "Aanbeveling van OBS De Piramide uit Vught"
 
 +++
