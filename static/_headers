@@ -1,0 +1,11 @@
+/
+  Link: </js/app.js>; rel=preload; as=script
+  Link: </css/style.css>; rel=preload; as=style
+  Link: </css/blog.css>; rel=preload; as=style
+/img*
+  Cache-Control: public, max-age=14400
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: origin-when-cross-origin
