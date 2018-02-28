@@ -15,6 +15,7 @@ git submodule update
 
 ``` shell
 hugo server # start the local webserver
+hugo new opdrachtens/de-olympische-winterspelen.md # announce a new task
 hugo new posts/my-first-post.md # regular old post
 hugo new aanbevelings/obs-de-regenboog-maastricht.md # for a recommendation
 ```
