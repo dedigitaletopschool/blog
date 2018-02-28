@@ -15,7 +15,9 @@ De Olympische Winterspelen staan op het punt van beginnen! De Nederlandse (winte
 
 Bij deze toegankelijke opdracht duikt de leerling niet alleen in de geschiedenis van de spelen, maar maakt ook kennis met de nieuwe sporten die bij de zomerspelen in 2020 door het Internationaal Olympisch Comité (IOC) worden toegevoegd. En hoe lang is zo’n marathon nou eigenlijk?
 
-[Bekijk hier een voorproefje](https://www.dedigitaletopschool.nl/voorproefjes/171-de-jachtluipaard)
+[Bekijk het een voorproefje op onze website](https://www.dedigitaletopschool.nl/voorproefjes/171-de-jachtluipaard)
+
+![Logo van De Digitale Topschool](/img/de-digitale-topschool.png)
 
 > ## De Digitale Topschool
 >
