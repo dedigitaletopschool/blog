@@ -15,7 +15,6 @@ Voor komend schooljaar verwacht het bestuur een vergelijkbare begroting met hope
 
 ## Inkomsten
 
-* Reserve vorig schooljaar: € 8.511,28
 * Baten uit abonnementen: € 14.842,50 (43% groei)
 * Giften: € 100
 * Subsidies: € 0
