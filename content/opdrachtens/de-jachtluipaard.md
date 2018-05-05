@@ -1,6 +1,6 @@
 +++
 title = "De Jachtluipaard"
-date = "2017-11-23T11:05:17+01:00"
+date = "2017-11-23"
 tags = ['natuur','dieren']
 categories = ['Opdrachten']
 +++

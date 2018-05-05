@@ -1,6 +1,6 @@
 +++
 title = "Het Openbaar Vervoer in De Grote Steden"
-date = "2017-11-28T21:01:51+01:00"
+date = "2017-11-28"
 tags = ['opdracht']
 categories = ['verkeer','geschiedenis']
 +++

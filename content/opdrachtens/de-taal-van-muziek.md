@@ -1,6 +1,6 @@
 +++
 title = "De Taal Van Muziek"
-date = 2018-05-05T10:37:57+02:00
+date = 2018-05-05
 tags = ['muziek', 'notenschrift']
 categories = ['Opdrachten']
 +++

@@ -1,6 +1,6 @@
 +++
 title = "De Verzetskrant"
-date = "2017-12-20T15:05:20+01:00"
+date = "2017-12-20"
 tags = ['opdracht']
 categories = ['media', 'maatschappij']
 +++

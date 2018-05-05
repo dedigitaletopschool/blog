@@ -1,6 +1,6 @@
 +++
 categories = ["Aanbeveling"]
-date = "2017-09-29T14:43:39+02:00"
+date = "2017-09-29"
 tags = []
 title = "Een aanbeveling van De Witte Olifant uit Amsterdam van Marjo van Wittmarschen"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Goede Vragen Stellen"
-date = "2018-01-08T13:56:10+01:00"
+date = "2018-01-08"
 tags = ['uitleg']
 categories = []
 +++

@@ -1,6 +1,6 @@
 +++
 title = "De Olympische Spelen"
-date = 2018-01-15T09:41:13+01:00
+date = 2018-01-15
 tags = ['Sport']
 categories = ['Opdrachten']
 +++

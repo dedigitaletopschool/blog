@@ -1,6 +1,6 @@
 +++
 title = "De Rechtbank"
-date = "2017-12-30T16:21:09+01:00"
+date = "2017-12-30"
 tags = ['opdracht']
 categories = ['rechtspraak','maatschappij']
 +++
