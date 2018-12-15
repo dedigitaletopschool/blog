@@ -1,11 +1,17 @@
 /
+  Strict-Transport-Security: max-age=31536000; includeSubdomains
   Link: </js/app.js>; rel=preload; as=script
   Link: </css/style.css>; rel=preload; as=style
   Link: </css/blog.css>; rel=preload; as=style
-/img*
-  Cache-Control: public, max-age=14400
+  Link: </img/base16-eighties.svg>; rel=preload; as=image
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: origin-when-cross-origin
+/css/*
+  Cache-Control: public, max-age=14400
+/img*
+  Cache-Control: public, max-age=14400
+/js/*
+  Cache-Control: public, max-age=14400
