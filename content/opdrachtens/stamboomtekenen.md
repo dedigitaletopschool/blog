@@ -13,7 +13,7 @@ Ben je blond of heb je donker haar? Krullen misschien? Zitten je oorlellen vast 
 
 Het is een erg pittige opdracht over erfelijke eigenschappen, dominante overerving, DNA, enrecessieve overerving. De opdracht bevat veel duidelijke video's over het onderwerp en een grote hoeveelheid links naar relevante pagina's op internet. Op het eind wordt de leerling gevraagd de eigen stamboom te tekenen en uploaden.
 
-[Bekijk het een voorproefje op onze website](https://www.dedigitaletopschool.nl/voorproefjes/185-stamboomtekenen)
+[Bekijk het voorproefje op onze website](https://www.dedigitaletopschool.nl/voorproefjes/185-stamboomtekenen)
 
 ![Logo van De Digitale Topschool](/img/de-digitale-topschool.png)
 

@@ -14,7 +14,7 @@ In het oude Griekenland, ver voor onze jaartelling, startten allerlei zaken die 
 
 Over Theseus, de held van Athene en Attika, gaat deze opdracht. Zijn bekendste avontuur is zijn strijd met de Minotaurus, een stiermens die in een doolhof verbleef en tieners verslond. Het is niet alleen een verhaal over een beproeving, maar ook over opstandigheid, over list, over liefde, over goed en kwaad en over misverstanden.
 
-[Bekijk het een voorproefje op onze website](https://www.dedigitaletopschool.nl/voorproefjes/184-een-grieks-drama)
+[Bekijk het voorproefje op onze website](https://www.dedigitaletopschool.nl/voorproefjes/184-een-grieks-drama)
 
 ![Logo van De Digitale Topschool](/img/de-digitale-topschool.png)
 

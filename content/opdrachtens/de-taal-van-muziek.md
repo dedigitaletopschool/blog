@@ -18,7 +18,7 @@ dat gedownload en geprint moet worden, twee video-lessen met muziektheorie, de
 theoretische vragen en ook mag de persoonlijke muzieksmaak van de leerling
 niet ontbreken.
 
-[Bekijk het een voorproefje op onze website](https://www.dedigitaletopschool.nl/voorproefjes/183-de-taal-van-muziek)
+[Bekijk het voorproefje op onze website](https://www.dedigitaletopschool.nl/voorproefjes/183-de-taal-van-muziek)
 
 ![Logo van De Digitale Topschool](/img/de-digitale-topschool.png)
 
